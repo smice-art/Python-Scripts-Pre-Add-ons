@@ -14,7 +14,7 @@ Open the zip file, store in you files system and open the Blend.File "material s
 
 ## Video Tutorial
 This short video tutorial is a small instruction.
-![Small instruction](../video/mat.mp4)
+![Small instruction](./video/mat.mp4)
 
 ## Release Notes
 
