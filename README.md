@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/pre-addon.jpg" alt="pre-addon" width="100%">
+  <img src="pre-addon.jpg" alt="pre-addon" width="100%">
 </p>
 
 # Blender "pre-add-ons"
