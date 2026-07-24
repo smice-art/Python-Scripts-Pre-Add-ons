@@ -2,7 +2,7 @@
 A small "pre" add-on to switch easy and quick between hundreds of materials.
 
 # Screen Shot
-![Banner Image](images/screen.jpg)
+![Banner Image](./images/screen.jpg)
 
 ## The Why
 The idea behind this add-on was to create the possibility of reactivating the original material properties from a baked material texture, or at least in the form of an approximation of the original definition of the original material.
