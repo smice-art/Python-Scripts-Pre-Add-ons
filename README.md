@@ -18,7 +18,7 @@ Here is the table of Blender Scripts with a small preview:
 | Object | Description | Preview |
 | :--- | :--- | :--- |
 | **[MATERIAL](./MaterialChecker/)** | this add-on enables a very quick change of materials . |
-| **[CHAOS](./ChaosSymmetry/)** | a add-on to build choas attractors. |
+| **[CHAOS](./ChaosSymmetry/)** | a add-on to build chaos attractors. |
 
 ## Release Notes
 
