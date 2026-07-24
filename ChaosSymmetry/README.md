@@ -1,7 +1,16 @@
 ![Banner](../images/pre-addon.jpg)
 
-# Chaos Symetry
-The ChaosSymetry  -- ff
+# Project Overview: Symmetric Attractor Generator
+The project is a custom Blender 3D Python add-on called Symmetric Attractor Generator (located in the ChaosSymmetry sidebar panel). It bridges complex mathematics and generative art by translating chaotic math equations into smooth, customizable 3D geometry in real time.
+
+# Key Features
+
+* Procedural 3D Curve Geometry: Generates complex, organic-looking geometric structures as smooth 3D Bezier curves.
+
+* Live UI Controls (N-Panel): Features a custom sidebar panel where you can tweak equation variables, iteration counts, geometric scales, curve smoothness, and bevel thickness on the fly.
+
+* One-Click Shader Generator: Includes a built-in material generator that instantly builds and applies vibrant radial gradient materials with randomized color palettes.
+
 
 # Screen Shot
 ![Banner Image](images/screen.jpg)
