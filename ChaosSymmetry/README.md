@@ -1,3 +1,5 @@
+![Banner](../images/pre-addon.jpg)
+
 <p align="center">
   <img src="images/pre-addon.jpg" alt="Reverse Baking Banner" width="100%">
 </p>
