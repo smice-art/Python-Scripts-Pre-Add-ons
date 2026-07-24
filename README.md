@@ -13,6 +13,12 @@ Note: Please download the files located under each assets section of the latest 
 
 ## Documentation
 There is no explicit documentation on this scripts.
+Here is the table of Blender Scripts with a small preview:
+
+| Object | Description | Preview |
+| :--- | :--- | :--- |
+| **[MATERIAL](./MaterialChecker/)** | this add-on enables a very quick change of materials . |
+| **[CHAOS](./ChaosSymmetry/)** | a add-on to build choas attractors. |
 
 ## Release Notes
 
