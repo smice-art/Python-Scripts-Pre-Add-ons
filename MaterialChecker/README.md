@@ -1,6 +1,6 @@
 ![Banner](../images/pre-addon.jpg)
 
-# Python Scripts Material Checker
+# Python Script - Material Checker
 A small "pre" add-on to switch easy and quick between hundreds of materials.
 
 ## The Why
