@@ -16,7 +16,7 @@ The project is a custom Blender 3D Python add-on called Symmetric Attractor Gene
 ![Banner Image](images/screen.jpg)
 
 ## The Why
-The idea behind this add-on was to create a add-on that generates chaos attroctors.
+It's a custom Blender add-on that transforms chaotic mathematical equations into smooth, organic 3D curve structures. It gives you full control over the geometry's shape, smoothness, and thickness directly in the sidebar, complete with a one-click random material generator to style the results.
 
 ## Documentation
 the Add-on is easy to understand. Just open the N-Panel and play with the settings
