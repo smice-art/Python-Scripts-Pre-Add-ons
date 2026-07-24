@@ -4,7 +4,8 @@
 A small "pre" add-on to switch easy and quick between hundreds of materials.
 
 ## The Why
-The idea behind this add-on was to create the possibility of reactivating the original material properties from a baked material texture, or at least in the form of an approximation of the original definition of the original material.
+The idea behind this add-on was to create the possibility to change by simple 
+one click the material. The script look in the same folder as its base for aall kind of images and list them inside blender. (watch the youtube video)
 
 ## Quick Start
 Open the zip file, store it in you files system and open the Blend.File "material shader.blend" (Blender version 4.3), than press play and let the script run. I added many example files from a math-shader projct on Superhive: (https://superhivemarket.com/products/1000-procedural-math-blender-materials). If you like your own image database, just rcopy the blend.file to your desired directory and run the script again.
