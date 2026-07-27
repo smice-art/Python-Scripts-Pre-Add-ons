@@ -20,6 +20,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[MATERIAL](./MaterialChecker/)** | this add-on enables a very quick change of materials . |
 | **[CHAOS](./ChaosSymmetry/)** | a add-on to build chaos attractors. |
 | **[CLEANCURVES](./CurveDisolve/)** | a add-on to clean up unused vertices of a curve. |
+| **[Loxodrome](./LoxodromeGenerator/)** | build Loxodrome obejct and sterographic projections. |
 
 ## Release Notes
 
