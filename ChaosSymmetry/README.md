@@ -21,6 +21,11 @@ It's a custom Blender add-on that transforms chaotic mathematical equations into
 ## Documentation
 the Add-on is easy to understand. Just open the N-Panel and play with the settings
 
+| Object | Preview |
+| :--- | :--- |
+| <img src="images/S1.jpg" width="250"> | <img src="images/S5.jpg" width="250"> |
+| <img src="images/S4.jpg" width="250"> | <img src="images/S7.jpg" width="250"> |
+
 ## Release Notes
 
 ### v1.0.0 (July 26, 2026)
