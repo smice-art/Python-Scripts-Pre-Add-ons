@@ -25,6 +25,8 @@ the Add-on is easy to understand. Just open the N-Panel and play with the settin
 | :--- | :--- |
 | <img src="images/yarn.jpg" width="250"> | <img src="images/yarn2.jpg" width="250"> |
 
+# Screen Shot
+![Menu Image](images/yarn-menu.jpg)
 
 ## Release Notes
 
