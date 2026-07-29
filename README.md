@@ -21,6 +21,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[CHAOS](./ChaosSymmetry/)** | a add-on to build chaos attractors. |
 | **[CLEANCURVES](./CurveDisolve/)** | a add-on to clean up unused vertices of a curve. |
 | **[LOXODROME](./LoxodromeGenerator/)** | build Loxodrome object and their sterographic projections. |
+| **[YARNBALL](./YarnBall/)** | Yarn Ball generator -- interactive add-on version. |
 
 ## Release Notes
 
