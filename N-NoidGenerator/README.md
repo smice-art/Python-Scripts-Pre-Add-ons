@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/addon.jpg" alt="N-Noid Generator width="100%">
-</p>
+![Banner](../images/pre-addon.jpg)
 
 # Info
 Please excuse me regarding the correct mathematical terms; I am unfortunately not a mathematician, so they are sometimes certainly not correct.
