@@ -22,6 +22,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[CLEANCURVES](./CurveDisolve/)** | a add-on to clean up unused vertices of a curve. |
 | **[LOXODROME](./LoxodromeGenerator/)** | build Loxodrome object and their sterographic projections. |
 | **[YARNBALL](./YarnBall/)** | Yarn Ball generator -- interactive add-on version. |
+| **[N-NOIDS](./N-NoidGenerator/)** | Minimal Surface generator -- a "Pre" add-on version without the add-on header. |
 
 ## Release Notes
 
