@@ -23,6 +23,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[LOXODROME](./LoxodromeGenerator/)** | build Loxodrome object and their sterographic projections. |
 | **[YARNBALL](./YarnBall/)** | Yarn Ball generator -- interactive add-on version. |
 | **[N-NOIDS](./N-NoidGenerator/)** | Minimal Surface generator -- a "Pre" add-on version without the add-on header. |
+| **[FIRST_SCHERK](./FirstScherk/)** | A "First Scherk" Surface generator -- a "mini" add-on to add a menu entry. |
 
 ## Release Notes
 
