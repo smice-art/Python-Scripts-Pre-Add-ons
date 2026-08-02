@@ -22,7 +22,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[CLEANCURVES](./CurveDisolve/)** | a add-on to clean up unused vertices of a curve. | <img src="images/i.jpg" width="250"> | 
 | **[LOXODROME](./LoxodromeGenerator/)** | build Loxodrome object and their sterographic projections. | <img src="images/g.jpg" width="250"> | 
 | **[YARNBALL](./YarnBall/)** | Yarn Ball generator -- interactive add-on version. | <img src="images/e.jpg" width="250"> | 
-| **[N-NOIDS](./N-NoidGenerator/)** | Minimal Surface generator -- a "Pre" add-on version without the add-on header. | <img src="images/d.jpg" width="250"> | 
+| **[N-NOIDS](./N-NoidGenerator/)** | Minimal Surface generator -- a "Pre" add-on version without the add-on header. | <img src="images/d.jpeg" width="250"> | 
 | **[FIRST_SCHERK](./FirstScherk/)** | A "First Scherk" Surface generator -- a "mini" add-on to add a menu entry. | <img src="images/c.jpg" width="250"> | 
 | **[SCHERKCOLLIN](./Second-Scherk-Sculpture/)** | the "Second Scherk" Surface generator/ and Scherk-Collin Surface builder . | <img src="images/a.jpg" width="250"> | 
 
