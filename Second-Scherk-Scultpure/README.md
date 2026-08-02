@@ -18,7 +18,7 @@ you don´t have to make a add-on - to run it just paste the certain script in th
 | <img src="images/1.jpg" width="250"> | Gemini Smooth 1 |
 | <img src="images/2.jpg" width="250"> | Gemini Smooth 2 |
 | <img src="images/3.jpg" width="250"> | Gemini Smooth 3 |
-| <img src="images/C1.jpeg" width="250"> | Claude Add-on 1 |
+| <img src="images/C1.jpg" width="250"> | Claude Add-on 1 |
 | <img src="images/C2.png" width="250"> | Claude Add-on 2 |
 | <img src="images/C3.png" width="250"> | Claude Add-on 3 |
 | <img src="images/GN1.jpg" width="250"> | Geometry Nodes |
