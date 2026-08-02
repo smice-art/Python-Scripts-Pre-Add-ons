@@ -24,7 +24,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[YARNBALL](./YarnBall/)** | Yarn Ball generator -- interactive add-on version. |
 | **[N-NOIDS](./N-NoidGenerator/)** | Minimal Surface generator -- a "Pre" add-on version without the add-on header. |
 | **[FIRST_SCHERK](./FirstScherk/)** | A "First Scherk" Surface generator -- a "mini" add-on to add a menu entry. |
-| **[SCHERK-COLLIN](./Second-Scherk-Sculpture/)** | the "Second Scherk" Surface generator/ and Scherk-Collin Surface builder . |
+| **[SCHERKCOLLIN](./Second-Scherk-Sculpture/)** | the "Second Scherk" Surface generator/ and Scherk-Collin Surface builder . |
 
 ## Release Notes
 
