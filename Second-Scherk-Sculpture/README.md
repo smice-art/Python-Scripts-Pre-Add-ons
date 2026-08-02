@@ -1,10 +1,11 @@
 ![Banner](../images/pre-addon.jpg)
 
 # Info ⚠️
-Please excuse me regarding the correct mathematical terms; I am unfortunately not a mathematician, so they are sometimes certainly not correct.
+Please excuse me regarding the correct mathematical terms; I am unfortunately not a mathematician, so they are sometimes certainly not correct. 
+The original idea was to build a "generator" based on the Scherk-Collin surface generator. Despite using Qwen, Claude.ai, ChatGpt, and Gemini, I haven't been able to perfectly reproduce it for Blender. However, it's a solid starting point for further development.
 
 # Scherk, Scherk Collin Surface Generator
-This is a Blender Add-on to generate Scherk Collin Surface
+This is a Blender add-on that builds one segment of this surface from scratch, based directly on the construction described in a 2024 mathematics paper (Chen & Traizet), with adjustable "wing count" and shape parameters
 
 # Screen Shot
 ![Banner Image](images/screen.jpg)
@@ -26,7 +27,7 @@ you don´t have to make a add-on - to run it just paste the certain script in th
 
 ## Release Notes
 
-### v1.0.0 (July 31, 2026)
+### v1.0.0 (August 2, 2026)
 - **Publishing**: First public upload of the Add-on.
 
 ## Blender
