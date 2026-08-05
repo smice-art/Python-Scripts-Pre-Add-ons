@@ -2,7 +2,7 @@
 
 # Info ⚠️
 Please excuse me regarding the correct mathematical terms; I am unfortunately not a mathematician, so they are sometimes certainly not correct. 
-The original idea was to build a "generator" based on the Scherk-Collin surface generator. Despite using Qwen, Claude.ai, ChatGpt, and Gemini, I haven't been able to perfectly reproduce it for Blender. However, it's a solid starting point for further development.
+The original idea was to build a "generator" based on the Scherk-Collin surface generator. Despite using Qwen, Claude.ai, ChatGpt, and Gemini, I haven't been able to perfectly reproduce it for Blender. However, it's a solid starting point for further development. The last Script, the "Scherk-Tower-Add-On.py" is closer to the original design, has a Auto Update Function and a Twist & Bend Function with only one click.
 
 # Scherk, Scherk Collin Surface Generator
 This is a Blender add-on that builds one segment of this surface from scratch, based directly on the construction described in a 2024 mathematics paper (Chen & Traizet), with adjustable "wing count" and shape parameters
