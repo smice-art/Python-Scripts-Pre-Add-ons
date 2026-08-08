@@ -25,8 +25,12 @@ Here is the table of Blender Scripts with a small preview:
 | **[N-NOIDS](./N-NoidGenerator/)** | Minimal Surface generator -- a "Pre" add-on version without the add-on header. | <img src="images/d.jpeg" width="250"> | 
 | **[FIRST_SCHERK](./FirstScherk/)** | A "First Scherk" Surface generator -- a "mini" add-on to add a menu entry. | <img src="images/c.jpg" width="250"> | 
 | **[SCHERKCOLLIN](./Second-Scherk-Sculpture/)** | the "Second Scherk" Surface generator/ and Scherk-Collin Surface builder . | <img src="images/a.jpg" width="250"> | 
+| **[RANDOMCURVE](./CurveThickness/)** | This script is an automation tool to generate random curve thickness. | <img src="images/h.jpg" width="250"> |  
 
 ## Release Notes
 
 ### v1.0.0 (July 20, 2026)
 - **Publishing**: First public upload of the Add-on.
+
+### v2.0.0 (August 08, 2026)
+- **Publishing**: added several pre addons.
