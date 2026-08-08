@@ -23,7 +23,7 @@ Once you run the script on a curve (like a circle or a drawn path), it adds a cu
 | <img src="images/1.jpg" width="250"> | <img src="images/2.jpg" width="250"> |
 
 ## Yarn Ball Menu
-![Menu Image](images/rct-menu.jpg)
+![Menu Image](images/rct-menu.jpeg)
 
 ## Notes
 ⚠️ The proper UV Settings are depending on your chosen material, you have to play in the shader settings like in shown in the screenshot
