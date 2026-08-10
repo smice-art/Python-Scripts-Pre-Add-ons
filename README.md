@@ -26,6 +26,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[FIRST_SCHERK](./FirstScherk/)** | A "First Scherk" Surface generator -- a "mini" add-on to add a menu entry. | <img src="images/c.jpg" width="250"> | 
 | **[SCHERKCOLLIN](./Second-Scherk-Sculpture/)** | the "Second Scherk" Surface generator/ and Scherk-Collin Surface builder . | <img src="images/a.jpg" width="250"> | 
 | **[RANDOMCURVE](./CurveThickness/)** | This script is an automation tool to generate random curve thickness. | <img src="images/j.jpg" width="250"> |  
+| **[SPHERICAL](./SphericalHarmonics/)** | Generates a deformed sphere mesh from a real spherical harmonic . | <img src="images/k.jpg" width="250"> | 
 
 ## Release Notes
 
