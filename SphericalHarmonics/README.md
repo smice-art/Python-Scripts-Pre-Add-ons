@@ -21,8 +21,8 @@ Panel fields (N-panel → Harmonics tab):
 * Animate on Frame Change — rebuilds the mesh every frame during playback/scrubbing/render, which is what makes keyframed parameters (e.g. Strength) actually animate the geometry.
 
 ## Previews
-| Object | Preview |
-| :--- | :--- |
+| Preview | Preview | Preview |
+| :--- | :--- |:--- |
 | <img src="images/1.jpg" width="250"> | <img src="images/2.jpg" width="250"> | <img src="images/3.jpg" width="250"> |
 | <img src="images/4.jpg" width="250"> | <img src="images/5.jpg" width="250"> | <img src="images/6.jpg" width="250"> |
 
