@@ -11,9 +11,9 @@ This tool is a 3D mesh generator for Blender that turns abstract fractal equatio
 The Core Idea; it takes classic fractal math—the infinite, self-repeating patterns famous for creating Mandelbrot structures—and wraps it around a 3D object to give it detailed, organic relief.
 
 * How It Works
-** Surface Sampling: The script projects a grid of thousands of tiny points across the target 3D shape.
-** Fractal Testing: At each point, it runs a quick mathematical test to check how fast the numbers grow or "escape."
-** Physical Extrusion: Points that escape faster get pushed outward to form peaks, ridges, and complex micro-structures, while stable points remain low.
+- Surface Sampling: The script projects a grid of thousands of tiny points across the target 3D shape.
+- Fractal Testing: At each point, it runs a quick mathematical test to check how fast the numbers grow or "escape."
+- Physical Extrusion: Points that escape faster get pushed outward to form peaks, ridges, and complex micro-structures, while stable points remain low.
 
 * Key Features
 ** Shape Switching: Allows you to swap the base geometry between a sphere, cube, torus, or flat plane.
