@@ -1,5 +1,8 @@
 ![Banner](../images/pre-addon.jpg)
 
+> [!IMPORTANT]
+> Please excuse me regarding the correct mathematical terms; I am unfortunately not a mathematician, so they are sometimes certainly not correct.
+
 # Project Overview: 4D Julibrot space
 This tool is a procedural 3D mesh generator that translates four-dimensional complex dynamical fractal boundaries into physical geometric height fields across customizable topological manifolds..
 
