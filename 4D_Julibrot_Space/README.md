@@ -10,7 +10,7 @@ This tool is a procedural 3D mesh generator that translates four-dimensional com
 This tool is a 3D mesh generator for Blender that turns abstract fractal equations into physical surface landscapes on shapes like spheres, cubes, and toruses.
 The Core Idea; it takes classic fractal math—the infinite, self-repeating patterns famous for creating Mandelbrot structures—and wraps it around a 3D object to give it detailed, organic relief.
 
-** How It Works **
+**How It Works
 - Surface Sampling: The script projects a grid of thousands of tiny points across the target 3D shape.
 - Fractal Testing: At each point, it runs a quick mathematical test to check how fast the numbers grow or "escape."
 - Physical Extrusion: Points that escape faster get pushed outward to form peaks, ridges, and complex micro-structures, while stable points remain low.
