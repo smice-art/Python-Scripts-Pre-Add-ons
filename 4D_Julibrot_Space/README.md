@@ -15,7 +15,7 @@ The Core Idea; it takes classic fractal math—the infinite, self-repeating patt
 - Fractal Testing: At each point, it runs a quick mathematical test to check how fast the numbers grow or "escape."
 - Physical Extrusion: Points that escape faster get pushed outward to form peaks, ridges, and complex micro-structures, while stable points remain low.
 
-** Key Features**
+** Key Features **
 - Shape Switching: Allows you to swap the base geometry between a sphere, cube, torus, or flat plane.
 - Pattern Tweaking: Offers visual presets and custom sliders to zoom in, stretch, or shift the fractal details across the surface.
 - Real-Time Panel Controls: Sits inside Blender's sidebar with an "Auto Update" toggle so you can tweak sliders and watch the mesh update instantly.
