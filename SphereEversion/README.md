@@ -25,7 +25,7 @@ N-panel tab "Eversion"
 | <img src="images/4.jpg" width="250"> | <img src="images/5.jpg" width="250"> | <img src="images/6.jpg" width="250"> |
 
 ## Version II
-![Version](7.jpg)
+![Version]<img src="images/7.jpg" width="350">)
 
 ## Release Notes
 
