@@ -28,6 +28,7 @@ Here is the table of Blender Scripts with a small preview:
 | **[RANDOMCURVE](./CurveThickness/)** | This script is an automation tool to generate random curve thickness. | <img src="images/j.jpg" width="250"> |  
 | **[SPHERICAL](./SphericalHarmonics/)** | Generates a deformed sphere mesh from a real spherical harmonic. | <img src="images/k.jpg" width="250"> | 
 | **[JULIBROT](./4D_Julibrot_Space/)** | This tool is a procedural 3D mesh generator. | <img src="images/l.JPEG" width="250"> | 
+| **[EVERSION](./SphereEversion/)** | This tool makes Sphere Eversion in Blender.  | <img src="images/m.jpg" width="250"> | 
 
 ## Release Notes
 
