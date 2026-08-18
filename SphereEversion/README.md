@@ -12,7 +12,8 @@ There a two script version of the Addon, both with a animation function, but the
 N-panel tab "Eversion"
 
 - Progress slider (0=sphere, 0.5=halfway model, 1=inside-out) + quick-jump buttons
-- Shape: arm count n (2 = the 4-armed quadrifolium look in your image; 3 = Boy-surface variant), Q (twist range), radius scale
+- Shape: arm count n (2 = the 4-armed quadrifolium look in your image; 3 = Boy-surface variant)
+- Q (twist range), radius scale
 - Resolution & Precision: ring/segment counts, plus the two epsilon clamps needed for the removable singularities at the poles and at the wormhole-inversion phase boundary (same spirit as the pole handling in your Wente torus addon)
 - Appearance: vertex-color latitude gradient (blue→green→yellow, baked as a Color Attribute + Principled BSDF) plus a wireframe-overlay toggle to get that gridded look from the poster
 - Animation: frame-change handler that drives Progress from the timeline (matches your spherical-harmonic addon's pattern), plus a bake operator
