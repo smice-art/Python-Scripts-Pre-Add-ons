@@ -27,9 +27,15 @@ Once you run the script on a curve (like a circle or a drawn path), it adds a cu
 
 ## Notes
 ⚠️ The proper UV Settings are depending on your chosen material, you have to play in the shader settings like in shown in the screenshot
+⚠️ Works from Blender version 4.5.+ (only reason; the Curve to Mesh new "Scale" input)
 
 ### v1.0.0 (August 6, 2026)
 - **Publishing**: First public upload of the Add-on.
+
+### v2.0.0 (September 11, 2026)
+Updates:
+  - Fixed KeyError by forcing the script to clear and rebuild the Node 
+    Group interface on every run, preventing missing socket errors.
 
 ## Blender
 ![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
