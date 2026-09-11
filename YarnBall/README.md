@@ -33,6 +33,9 @@ the Add-on is easy to understand. Just open the N-Panel and play with the settin
 ### v1.0.0 (July 29, 2026)
 - **Publishing**: First public upload of the Add-on.
 
+### v2.0.0 (September 11, 2026)
+- **Publishing**: update the Add-on, "autoupdater + new parameter for noise effect"
+
 ## Blender
 ![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
 ![Blender](https://img.shields.io/badge/Blender-4.58-greenorange)
