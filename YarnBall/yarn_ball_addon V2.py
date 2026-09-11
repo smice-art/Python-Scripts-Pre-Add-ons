@@ -31,8 +31,8 @@ from mathutils import Vector, noise as bnoise
 
 bl_info = {
     "name": "Yarn Ball Generator",
-    "author": "Claude",
-    "version": (1, 4, 0),
+    "author": "Claudio",
+    "version": (2, 0, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > Yarn Ball",
     "description": "Generates a filled, non-self-intersecting yarn-ball curve with adjustable noise and fly-away fibers",
