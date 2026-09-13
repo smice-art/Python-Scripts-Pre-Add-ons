@@ -25,10 +25,19 @@ you don´t have to make a add-on - to run it just paste the certain script in th
 | <img src="images/GN1.jpg" width="250"> | Geometry Nodes |
 | <img src="images/Q1.jpg" width="250"> | Qwen Variation |
 
+## Geometry Node Version
+
+The Blender Geometry Version does make a "Scherk Like" object with a detailed adjustment via Geometry Node Modifier. It generates by python script the object with his own modifier.
+
+| <img src="images/scherk.jpeg" width="100%"> | Blender GN Variation |
+
 ## Release Notes
 
 ### v1.0.0 (August 2, 2026)
 - **Publishing**: First public upload of the Add-on.
+
+### v2.0.0 (September 13, 2026)
+- **Publishing**: Further Files.
 
 ## Blender
 ![Blender](https://img.shields.io/badge/Blender-4.3%2B-orange)
